@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey folks 👋 I'm Tejas 👨‍💻
+  Hey folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Tejas 👨‍💻
 </h1>
 
 <h1>About me:</h1>
