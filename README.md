@@ -2,15 +2,6 @@
   Hey folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Tejas 👨‍💻
 </h1>
 
-<h1>About me:</h1>
-
-- 🔭 I’m currently working on Frontend Development.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate on Python and Web Development.
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=136tejas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
 <p align="center">
    <a href="https://twitter.com/TejasTank16">
     <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />
